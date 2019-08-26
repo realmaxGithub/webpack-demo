@@ -1,0 +1,5 @@
+/node_modules
+/build
+/dist
+/Common/.DS_Store 
+.DS_Store
