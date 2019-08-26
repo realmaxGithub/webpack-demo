@@ -3,7 +3,8 @@
   "sideEffects": [
     "./src/math.js"
   ],
-  "version": "0.0.1.0",
+  "git-version": "0.0.1.0",
+  "version": "1.0.0",
   "description": "",
   "private": true,
   "scripts": {
