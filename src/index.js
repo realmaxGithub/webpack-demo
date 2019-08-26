@@ -9,7 +9,7 @@ function component() {
    var element = document.createElement('pre');
   var btn = document.createElement('button');
 
-  // Lodash, now imported by this script dddddd222
+  // Lodash, now imported by this script dddddd222llllll
   // element.innerHTML = _.join(['Hello', 'webpack'], ' ');
 
    element.innerHTML = [
