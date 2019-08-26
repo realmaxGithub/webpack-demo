@@ -1,7 +1,7 @@
 import _ from 'lodash';
 import { cube } from './math.js';
 import printMe from './print.js';
-// import './styles.css';
+import './styles.css';
 function component() {
    var element = document.createElement('pre');
   var btn = document.createElement('button');
